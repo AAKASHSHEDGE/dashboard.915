@@ -5,8 +5,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import cufflinks as cf 
 import plost
-from plotly import __version__
-from plotly.offline import download_plotlyjs, init_notebook_mode, plot, iplot
+
 
 
 
